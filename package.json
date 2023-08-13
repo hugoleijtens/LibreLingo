@@ -90,5 +90,8 @@
   },
   "msw": {
     "workerDirectory": "apps/web/static"
+  },
+  "dependencies": {
+    "yarn": "^1.22.19"
   }
 }
